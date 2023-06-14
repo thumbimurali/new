@@ -1,0 +1,39 @@
+{
+  "name": "new",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_new"
+  },
+  "dependencies": {
+    "new_removeTodo": {
+      "directory": "new_removeTodo"
+    },
+    "new_addTodo": {
+      "directory": "new_addTodo"
+    },
+    "new_listTodos": {
+      "directory": "new_listTodos"
+    },
+    "new_todoInput": {
+      "directory": "new_todoInput"
+    },
+    "new_todoItem": {
+      "directory": "new_todoItem"
+    },
+    "new_todoContainer": {
+      "directory": "new_todoContainer"
+    },
+    "newchild": {
+      "directory": "newchild"
+    }
+  },
+  "blockId": "nzH8ok41j3Ks2Y9pyknso",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
