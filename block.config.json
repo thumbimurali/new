@@ -2,8 +2,8 @@
   "name": "new",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/thumbimurali/new.git",
+    "ssh": "git@github.com:thumbimurali/new.git",
     "branch": "block_new"
   },
   "dependencies": {
