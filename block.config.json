@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/thumbimurali/new.git",
+    "ssh": "git@github.com:thumbimurali/new.git",
+    "branch": "block_new_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "new_removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "zy85EpcR2kx7WHkftJgzT",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "nzH8ok41j3Ks2Y9pyknso"
+  ]
+}
